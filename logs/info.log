@@ -50,3 +50,26 @@
 2024-10-09 23:22:42,025 - INFO - Correlation matrix computed successfully.
 2024-10-09 23:22:42,395 - INFO - Correlation heatmap displayed successfully.
 2024-10-09 23:22:42,395 - INFO - Correlation heatmap displayed successfully.
+2024-10-09 23:49:57,551 - INFO - AggregateFeatures initialized with dataframe of shape (95662, 16)
+2024-10-09 23:49:57,729 - INFO - Calculating total transaction amount per customer.
+2024-10-09 23:49:57,899 - INFO - Total transaction amount per customer calculated successfully.
+2024-10-09 23:49:57,921 - INFO - Calculating average transaction amount per customer.
+2024-10-09 23:49:58,015 - INFO - Average transaction amount per customer calculated successfully.
+2024-10-09 23:49:58,067 - INFO - Calculating number of transactions per customer.
+2024-10-09 23:49:58,173 - INFO - Number of transactions per customer calculated successfully.
+2024-10-09 23:49:58,195 - INFO - Calculating standard deviation of transaction amounts per customer.
+2024-10-09 23:49:58,276 - INFO - Standard deviation of transaction amounts per customer calculated successfully.
+2024-10-09 23:49:58,331 - INFO - Returning the modified dataframe.
+2024-10-09 23:49:58,459 - INFO - Extracting_features initialized with dataframe of shape (95662, 20)
+2024-10-09 23:49:58,570 - INFO - Converting TransactionStartTime to datetime
+2024-10-09 23:49:59,084 - INFO - Extracting the hour of the transaction.
+2024-10-09 23:49:59,133 - INFO - Hour of the transaction extracted successfully.
+2024-10-09 23:49:59,172 - INFO - Extracting the day of the transaction.
+2024-10-09 23:49:59,177 - INFO - Day of the transaction extracted successfully.
+2024-10-09 23:49:59,434 - INFO - Extracting the month of the transaction.
+2024-10-09 23:49:59,438 - INFO - Month of the transaction extracted successfully.
+2024-10-09 23:49:59,588 - INFO - Extracting the year of the transaction.
+2024-10-09 23:49:59,592 - INFO - Year of the transaction extracted successfully.
+2024-10-09 23:49:59,758 - INFO - Returning the modified dataframe.
+2024-10-09 23:50:01,370 - INFO - Starting normalization of columns: ['TotalTransactions', 'StdTransactionAmount']
+2024-10-09 23:50:01,391 - INFO - Columns ['TotalTransactions', 'StdTransactionAmount'] normalized successfully.
