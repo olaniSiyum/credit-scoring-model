@@ -6,3 +6,47 @@
 2024-10-08 23:03:41,139 - INFO - column_summary function called
 2024-10-08 23:03:41,850 - INFO - Column summary generated
 2024-10-08 23:03:41,850 - INFO - Column summary generated
+2024-10-09 23:18:27,906 - INFO - missing_values_table function called
+2024-10-09 23:18:27,906 - INFO - missing_values_table function called
+2024-10-09 23:18:28,057 - INFO - DataFrame has 16 columns, 0 columns have missing values
+2024-10-09 23:18:28,057 - INFO - DataFrame has 16 columns, 0 columns have missing values
+2024-10-09 23:18:33,148 - INFO - column_summary function called
+2024-10-09 23:18:33,148 - INFO - column_summary function called
+2024-10-09 23:18:33,764 - INFO - Column summary generated
+2024-10-09 23:18:33,764 - INFO - Column summary generated
+2024-10-09 23:20:04,066 - INFO - Starting plot_top_customers function
+2024-10-09 23:20:04,066 - INFO - Starting plot_top_customers function
+2024-10-09 23:20:04,067 - INFO - Plotting top ten customers based on amount paid
+2024-10-09 23:20:04,067 - INFO - Plotting top ten customers based on amount paid
+2024-10-09 23:20:04,407 - INFO - Plotting top ten customers based on number of transactions
+2024-10-09 23:20:04,407 - INFO - Plotting top ten customers based on number of transactions
+2024-10-09 23:20:04,706 - INFO - plot_top_customers function completed successfully
+2024-10-09 23:20:04,706 - INFO - plot_top_customers function completed successfully
+2024-10-09 23:20:54,888 - INFO - univariate_analysis function called for column ChannelId
+2024-10-09 23:20:54,888 - INFO - univariate_analysis function called for column ChannelId
+2024-10-09 23:20:55,326 - INFO - Category distribution plot generated for column ChannelId
+2024-10-09 23:20:55,326 - INFO - Category distribution plot generated for column ChannelId
+2024-10-09 23:21:11,649 - INFO - univariate_analysis function called for column ProductCategory
+2024-10-09 23:21:11,649 - INFO - univariate_analysis function called for column ProductCategory
+2024-10-09 23:21:12,126 - INFO - Category distribution plot generated for column ProductCategory
+2024-10-09 23:21:12,126 - INFO - Category distribution plot generated for column ProductCategory
+2024-10-09 23:21:34,505 - INFO - univariate_analysis function called for column Amount
+2024-10-09 23:21:34,505 - INFO - univariate_analysis function called for column Amount
+2024-10-09 23:21:35,916 - INFO - Histogram and boxplot generated for column Amount
+2024-10-09 23:21:35,916 - INFO - Histogram and boxplot generated for column Amount
+2024-10-09 23:21:53,438 - INFO - univariate_analysis function called for column PricingStrategy
+2024-10-09 23:21:53,438 - INFO - univariate_analysis function called for column PricingStrategy
+2024-10-09 23:21:54,293 - INFO - Histogram and boxplot generated for column PricingStrategy
+2024-10-09 23:21:54,293 - INFO - Histogram and boxplot generated for column PricingStrategy
+2024-10-09 23:22:11,778 - INFO - univariate_analysis function called for column FraudResult
+2024-10-09 23:22:11,778 - INFO - univariate_analysis function called for column FraudResult
+2024-10-09 23:22:12,737 - INFO - Histogram and boxplot generated for column FraudResult
+2024-10-09 23:22:12,737 - INFO - Histogram and boxplot generated for column FraudResult
+2024-10-09 23:22:42,005 - INFO - correlation_analysis function called.
+2024-10-09 23:22:42,005 - INFO - correlation_analysis function called.
+2024-10-09 23:22:42,011 - INFO - Numerical columns selected: ['CountryCode', 'Amount', 'Value', 'PricingStrategy', 'FraudResult']
+2024-10-09 23:22:42,011 - INFO - Numerical columns selected: ['CountryCode', 'Amount', 'Value', 'PricingStrategy', 'FraudResult']
+2024-10-09 23:22:42,025 - INFO - Correlation matrix computed successfully.
+2024-10-09 23:22:42,025 - INFO - Correlation matrix computed successfully.
+2024-10-09 23:22:42,395 - INFO - Correlation heatmap displayed successfully.
+2024-10-09 23:22:42,395 - INFO - Correlation heatmap displayed successfully.
